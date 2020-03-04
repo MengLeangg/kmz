@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>KHM_airport2015</name>
+  <Placemark>
+      <Point><coordinates>103.224,13.0956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>104.563875,12.255236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>104.844139,11.546556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>106.987,13.73</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>103.81284,13.410666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>103.636828,10.579686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>106.014531,13.531897</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>102.9975,11.613056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>105.441111,12.028889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>104.162222,10.633056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>104.148333,12.537222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>106.055,12.489444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+      <Point><coordinates>107.186944,12.4625</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
